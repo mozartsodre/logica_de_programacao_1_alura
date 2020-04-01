@@ -1,0 +1,24 @@
+<meta charset="UTF-8">
+
+<script>
+
+	function pulaLinha() {
+		
+		document.write("<br>");
+
+	}
+
+	function mostra() {
+
+		document.write("Existem "+Math.round((anoAtual-anoInicial)/idadeMediaParaTerFilho)+" gerações desde "+anoInicial+".");
+		pulaLinha();
+
+	}
+
+	var anoInicial = 1500;
+	var anoAtual = 2020;
+	var idadeMediaParaTerFilho= 28;
+
+	mostra();
+
+</script>
