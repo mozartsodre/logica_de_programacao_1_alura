@@ -1,0 +1,36 @@
+<meta charset="UTF-8">
+<script>
+
+	function pulaLinha(){
+		
+		document.write("<br>");
+
+	};
+
+	function mostra(frase) {
+
+		document.write(frase);
+		pulaLinha();
+
+	};
+
+	var numeroInicial = 30;
+
+	while (numeroInicial <= 40) {
+
+		if(numeroInicial == 33){
+			numeroInicial = numeroInicial+1;
+		} 
+		if(numeroInicial == 37){
+			numeroInicial = numeroInicial+1;
+		} else {
+			mostra(numeroInicial);
+			numeroInicial = numeroInicial+1;
+		}
+
+	
+	};
+
+	mostra("Chegamos ao fim.");
+
+</script>
