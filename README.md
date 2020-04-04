@@ -16,4 +16,4 @@
  Certificate can be seen [here](https://cursos.alura.com.br/user/mozartsodre/course/logica-programacao-javascript-html/certificate).
 
 Sources:
-*Lógica de programação I: Os primeiros programas com Javascript e HTML*. Alura. Available in: <https://cursos.alura.com.br/course/logica-programacao-javascript-html>. Accessed on: April 1st, 2020.
+**Lógica de programação I: Os primeiros programas com Javascript e HTML**. Alura. Available in: <https://cursos.alura.com.br/course/logica-programacao-javascript-html>. Accessed on: April 1st, 2020.
