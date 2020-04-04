@@ -1,5 +1,6 @@
 # programming_logic_1_alura
  **Programming Logic I: The first program with Javascript and HTML.**
+ Para ler em português clique [aqui](LEIAME.md).
  
  In this course i've learned about programming logic within 9 classes. The following topics were approched:
  * The basic structure to a html page and javascript code to work in the same file. As well the importance of the tag meta.
